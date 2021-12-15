@@ -23,7 +23,7 @@
     <a href = "mailto:aluziagabriela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/silva-luzia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="https://discord.com/channels/Luzia-Silva#7746" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <img align="right" alt="lu-pic" height="150" style="border-radius:50px;"  src="https://share-cdn.picrew.me/shareImg/org/202112/338224_HiEjSQIE.png">
+  <img align="right" alt="lu-pic" height="150" style="border-radius:50px;"  src="https://share-cdn.picrew.me/shareImg/org/202112/338224_1RcwpQ75.png">
   
   ## 
   
