@@ -1,11 +1,12 @@
 ## Hi, I'm Girludev ✨
 
 ```javascript
- const girludev = {
+ const me = {
   name : 'Luzia Gabriela Abreu da Silva Santos',
   age : 20,
   education: 'Data Science at Fatec',
   job: 'Junior Technology Engineer',
+  site: "https://www.girludev.com/",
   skills: [
    'JavaScript',
    'NodeJS', 
@@ -14,8 +15,7 @@
    'Python',
   ]
  }
- 
- console.log("This is Luzia and also Girludev", girludev);
+ console.log("This is Luzia and also Girludev ✨😍", me);
 ```
 
 <div align="center">
