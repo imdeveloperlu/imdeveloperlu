@@ -6,7 +6,6 @@
   age : 20,
   education: 'Data Science at Fatec',
   job: 'Junior Technology Engineer',
-  site: "https://www.girludev.com/",
   skills: [
    'JavaScript',
    'NodeJS', 
