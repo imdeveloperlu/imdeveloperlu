@@ -3,7 +3,7 @@
 ```javascript
  const me = {
   name : 'Luzia Gabriela Abreu da Silva Santos',
-  age : 20,
+  age : 21,
   education: 'Data Science at Fatec',
   job: 'Junior Technology Engineer',
   skills: [
