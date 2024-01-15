@@ -3,16 +3,9 @@
 ```javascript
  const me = {
   name : 'Luzia Gabriela Abreu da Silva Santos',
-  age : 21,
-  education: 'Data Science at Fatec',
+  age : 22,
+  education: ['degree in Data Science', 'postgraduate Systems Architecture'],
   job: 'Junior Technology Engineer',
-  skills: [
-   'JavaScript',
-   'NodeJS', 
-   'ReactJS', 
-   'Chakra UI',
-   'Python',
-  ]
  }
  console.log("This is Luzia and also Girludev ✨😍", me);
 ```
