@@ -1,20 +1,24 @@
 ## imdeveloperlu
 
 ```python
- me = {
-    name: "Luzia Gabriela Abreu da Silva Santos",
-    age: 22,
-    education: ["Superior em Ciência de Dados na Fatec de Santana de Parnaíba",
-    "Pós-graduação em Engenharia de dados na Puc de Minas"],
-    job: "Analista de sistemas",
-    about_me: [
-    "Sou uma desenvolvedora em transição para a área em que me formei, e agora estou decidida
-    a seguir carreira como analista ou engenheira de dados. Com foco em adquirir e aplicar as habilidades
-    necessárias para essas funções, estou preparada para enfrentar os desafios da área e contribuir com soluções eficientes
-    e inovadoras.",
-    "Conecte comigo no linkedin, adoro conexões"
-],
-};
+me = {
+    "name": "Luzia Gabriela Abreu da Silva Santos",
+    "age": 22,
+    "education": [
+        "Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
+        "Pós-graduação em Engenharia de Dados pela PUC Minas"
+    ],
+    "job": "Analista de Sistemas",
+    "about_me": [
+        (
+            "Sou uma desenvolvedora em transição para a área de dados, onde me formei. "
+            "Estou determinada a seguir carreira como analista ou engenheira de dados, "
+            "focada em aplicar e expandir as habilidades necessárias para essas funções. "
+            "Busco enfrentar desafios complexos e contribuir com soluções inovadoras e eficientes."
+        ),
+        "Conecte-se comigo no LinkedIn, adoro ampliar minha rede de contatos!"
+    ],
+}
 ```
 
 <div align="center">
