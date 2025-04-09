@@ -1,22 +1,21 @@
-## imdeveloperlu
-
+### 🌟 Data Professional | System Analyst
 ```python
 me = {
     "name": "Luzia Gabriela Abreu da Silva Santos",
     "age": 22,
     "education": [
-        "Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
-        "Pós-graduação em Engenharia de Dados pela PUC Minas"
+        "✨ Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
+        "✨ Pós-graduação em Engenharia de Dados pela PUC Minas"
     ],
     "job": "Analista de Sistemas",
     "about_me": [
         (
-            "Sou uma desenvolvedora em transição para a área de dados, onde me formei. "
-            "Estou determinada a seguir carreira como analista ou engenheira de dados, "
-            "focada em aplicar e expandir as habilidades necessárias para essas funções. "
-            "Busco enfrentar desafios complexos e contribuir com soluções inovadoras e eficientes."
+            "Sou uma profissional apaixonada pela área de dados, onde construí minha formação. "
+            "Estou dedicada a trilhar minha carreira como analista ou engenheira de dados, "
+            "combinando criatividade e técnica para desenvolver soluções inovadoras. "
+            "Busco constantemente aprender e crescer, transformando desafios em oportunidades."
         ),
-        "Conecte-se comigo no LinkedIn, adoro ampliar minha rede de contatos!"
+        "Vamos nos conectar no LinkedIn? Adoraria expandir minha rede com pessoas inspiradoras! 💫"
     ],
 }
 ```
@@ -29,7 +28,7 @@ me = {
 </div>
 <div align="center">
  
-  ![Alt Text](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnAwaWUzN3ltbG1lNTZqM2I1MTk3amc3OGJ4NGp6cDdtbWlvNmZlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FcHmJXrNLUO4pLg1NC/giphy.gif)
+  ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFoYndvOG4yMGJneTB6bGR5emJ3YXRkZXB3MTRlYWJ6NDlxcmh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vdu4ZSqcCw0AoQ8v7F/giphy.gif)
   
  ##
 <br>
@@ -39,4 +38,3 @@ me = {
    <a href="https://www.twitch.tv/lulucaxx25" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 
 </div>
-
