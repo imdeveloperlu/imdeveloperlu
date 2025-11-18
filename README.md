@@ -2,10 +2,9 @@
 ```python
 me = {
     "name": "Luzia Gabriela Abreu da Silva Santos",
-    "age": 22,
+    "age": 23,
     "education": [
         "✨ Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
-        "✨ Pós-graduação em Engenharia de Dados pela PUC Minas"
     ],
     "job": "Analista de Sistemas",
     "about_me": [
