@@ -1,4 +1,4 @@
-### 🌟 Data Professional | System Analyst
+### 🌟 System Analyst
 ```python
 me = {
     "name": "Luzia Gabriela Abreu da Silva Santos",
