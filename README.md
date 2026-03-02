@@ -1,31 +1,23 @@
-### 🌟 System Analyst
+### 🌟 Data Engineer
 ```python
 me = {
     "name": "Luzia Gabriela Abreu da Silva Santos",
-    "age": 23,
+    "age": 24,
     "education": [
         "✨ Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
+        "✨ Pósgraduação em Engenharia de dados"
     ],
     "job": "Analista de Sistemas",
     "about_me": [
         (
-            "Sou uma profissional apaixonada pela área de dados, onde construí minha formação. "
-            "Estou dedicada a trilhar minha carreira como analista ou engenheira de dados, "
-            "combinando criatividade e técnica para desenvolver soluções inovadoras. "
-            "Busco constantemente aprender e crescer, transformando desafios em oportunidades."
+            "A minha filosofia de vida é a seguinda:",
+            "Eu estou aprendendo sempre, então não é que eu na saiba",
+            "só não chegou a vez desse assunto do meu checklist de ESTUDOS",
         ),
-        "Vamos nos conectar no LinkedIn? Adoraria expandir minha rede com pessoas inspiradoras! 💫"
+        "Vamos nos conectar no LinkedIn? Adoraria vc minha rede, mil bjsss💫"
     ],
 }
 ```
-
-<div align="center">
-  <a href="https://github.com/imdeveloperlu">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=imdeveloperlu&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdeveloperlu&layout=compact&langs_count=7&theme=default"/>
-
-</div>
-<div align="center">
  
   ![Alt Text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFoYndvOG4yMGJneTB6bGR5emJ3YXRkZXB3MTRlYWJ6NDlxcmh2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vdu4ZSqcCw0AoQ8v7F/giphy.gif)
   
