@@ -1,7 +1,7 @@
 ### 🌟 Data Engineer
 ```python
 me = {
-    "name": "Luzia Gabriela Abreu da Silva Santos",
+    "name": "Luzia Santos (Lu)",
     "age": 24,
     "education": [
         "✨ Graduação em Ciência de Dados pela Fatec de Santana de Parnaíba",
@@ -10,7 +10,7 @@ me = {
     "job": "Analista de Sistemas",
     "about_me": [
         (
-            "A minha filosofia de vida é a seguinda:",
+            "A minha filosofia de vida é a seguinte:",
             "Eu estou aprendendo sempre, então não é que eu na saiba",
             "só não chegou a vez desse assunto do meu checklist de ESTUDOS",
         ),
